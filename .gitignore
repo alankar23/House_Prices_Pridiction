@@ -5,3 +5,4 @@ data_description.txt
 house-prices-advanced-regression-techniques.zip
 .vscode/settings.json
 tete
+*.csv
