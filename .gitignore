@@ -3,8 +3,7 @@ test.csv
 sample_submission.csv
 data_description.txt
 house-prices-advanced-regression-techniques.zip
-.vscode/settings.json
+.vscode
 tete
 *.csv
-be-in-top-17-with-10-lines-of-code.ipynb
 .gitignore
